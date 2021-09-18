@@ -1878,7 +1878,7 @@ input::-moz-focus-inner {
   background-color: #02182c;
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url();
+  background-image: url("manwalking.gif");
   background-size: cover;
   position: absolute;
   top: 20%;
